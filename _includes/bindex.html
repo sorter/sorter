@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="/css/bindex.css" />
+<div class="content">
+ <div class="heading">Analysis</div>
+ <table>
+  {% for post in site.posts %}
+   <tr>
+       <td><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></td>
+   </tr>
+   <tr>
+       <td><span class="post-date">{{ post.date | date_to_string }}</span></td>
+   </tr>
+   <tr>
+       <td> {{ post.excerpt }}</td> 
+   </tr>
+   <tr class="lastrow"> 
+    <td><ul><li>security</li><li>blog</li><li>cats</li></ul></td>
+   </tr>
+   <!--
+    <li class="post-link">
+             <span class="post-date">{{ post.date | date_to_string }}</span>
+        {{ post.title }}
+      </a>
+      </li>-->
+  {% endfor %}
+ </table>
+
+</div>

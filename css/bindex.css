@@ -1,0 +1,24 @@
+div.heading {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+tr.lastrow td {
+    padding-bottom: 50px;
+    padding-right: 80px;
+    padding-top: 10px;
+}
+tr td ul {
+    list-style-type: none;
+}
+
+tr td ul li {
+    display: inline;
+    padding: 4px;
+    background: #800000;
+    color: white;
+    margin: 8px;
+    font-size: 10px;
+}

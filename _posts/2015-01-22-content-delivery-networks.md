@@ -4,8 +4,6 @@ title: Content Delivery Networks
 cover: cover.jpg
 ---
 
-## Caching the internet, or at least part of it
-
 I had been performing routine network traffic analysis on ra familiar subnet
 on our about {{ page.initpubdate }} I had been performing a routine check
 of the network activity being transmitted from my network card.
