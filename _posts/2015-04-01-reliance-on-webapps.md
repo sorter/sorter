@@ -24,8 +24,9 @@ We see these web-apps vying with their native application
 competitors for market share, performance, ease-of-use, features and
 reliability among many other things. An example is the comparison of the
 Google Drive suite with the Microsoft Office Suite or Libre Office. In
-fact, Google's offering of their Chromebook laptop whose operating
-system's  window manager is quite literally a web browser is the
+fact, Google's offering of their [Chromebook laptop whose operating
+system's  window manager is quite literally a web browser](
+https://www.google.com/chromebook/about/) is the
 most telling example of exactly how far this trend can be taken. On
 those devices quite literally "everything" is done and runs within in
 the browser. The main reasons why some choose to utilize these web
