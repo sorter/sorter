@@ -60,16 +60,16 @@ create a new board with a title of the idea "Solve World Hunger" and
 begin creating lists and cards to organize my plan of assault. It's also
 trivial to add collaborators into the mix so that I can organize with my
 colleagues or partners.
-2. Gmail / Google Inbox. This is much more than just an e-mail access
+2. [Gmail](https://mail.google.com) / [Google Inbox](https://inbox.google.com). This is much more than just an e-mail access
 portal. I believe Gmail's browser offering fits the profile of a
 full-fledged email client.
-3. Github. It's the best and easiest graphical Git client/visualization
-tool that I know of. There are others that come close. (See Atlassian
-bitbucket, I use this also because it's cheaper to host private
+3. [Github](https://github.com). It's the best and easiest graphical Git client/visualization
+tool that I know of. There are others that come close. (See [Atlassian
+Bitbucket](https://bitbucket.com), I use this also because it's cheaper to host private
 repositories).
-4. NewRelic Server and Application monitoring.
-5. Google Drive & Office Suite
-6. Soundcloud
+4. [NewRelic](https://newrelic.com) Server and Application monitoring.
+5. [Google Drive](https://drive.google.com) & Office Suite
+6. [Soundcloud](https://soundcloud.com)
 
 The only true initial upfront cost of these applications is bandwidth,
 at least at face value. However I think it's worth noting a few
@@ -85,17 +85,18 @@ Presumably Google receives the request and sends you back the data you
 requested. The assumption here is that your request did genuinely make
 it to Google's servers and the response has not been tampered with in
 any way. Anything short of this, and you could actually be receiving a
-modified version of gmail's web-app that likes to eavesdrop on all of
-your emails, or record your password or worse. There are techniques for
-mitigating the
+modified version of gmail's web-app that likes [to eavesdrop on all of
+your emails, or record your password or worse](http://www.techweekeurope.co.uk/security/google-certificates-breach-164993). 
+There are techniques for mitigating the
 risk of such attacks (and this is just one simple vulnerability, there
 are numerous) but there aren't very many guarantees for security with
 this model.
 
 Another bottom line is that all your precious private data lives in the
 cloud and you're just going to have to trust that it's being stored in
-the most secure ways possible and that even the threat of a disgruntled
-employee on the inside of the provider's organization is
+the most secure ways possible and that even [the threat of a disgruntled
+employee wrecking havoc on the inside of the provider's organization or stealing data]
+(http://www.businessinsider.com/morgan-stanley-employee-steals-client-data-2015-1) is
 non-existent.
 
 The next major drawback I see with web-apps has to do with data
@@ -103,9 +104,11 @@ retention. If you use these services as often as I do, you begin to
 accumulate a lot of stored data. Emails, documents, bank statements,
 organization lists, digital media, contracts and everything in between. You then
 begin to wonder what measures the service provider has taken to reduce
-the possibility of precious data loss. Then, assuming they've left no
+the [possibility of precious data loss](http://www.reddit.com/r/self/comments/25hghf/google_incorrectly_deleted_my_account_and_ive/). 
+Then, assuming they've left no
 stone unturned to ensure that every single byte is accounted for, what
-if they go out of business or otherwise fall off the face of the planet?
+if [they go out of business or otherwise fall off the face of the planet]
+(http://www.posterous.com/)?
 There seems to be no standardized way to keep a backup of the data
 stored therein and it seems like that's just too much trust to place in
 the hands of these entities.
