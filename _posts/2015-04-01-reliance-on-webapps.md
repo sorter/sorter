@@ -53,7 +53,7 @@ so and the resultant program will be in essence functionally equivalent.
 I like to use myself as the first example whenever possible. So I'll
 begin by listing the web-apps I find to be most useful to my own workflows.
 
-1. Trello. It's a free online whiteboard for stickies and post-its- on
+1. [Trello](https://trello.com). It's a free online whiteboard for stickies and post-its- on
 drugs. To-date I haven't found an organizational took like it. Whenever I
 have a new idea I'm often overwhelmed about where to begin. Enter Trello. I
 create a new board with a title of the idea "Solve World Hunger" and
