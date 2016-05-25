@@ -23,7 +23,7 @@ doesn't offer anywhere near the customization abilities of Android.
 Often cited examples of this include customization of the 
 [launcher app](https://play.google.com/store/search?q=Launchers&c=apps&docType=1&sp=CAFiCwoJTGF1bmNoZXJzegUYAMABAooBAggB%3AS%3AANO1ljLEjxw&hl=en), 
 [lock screen](https://play.google.com/store/search?q=Lock%20Screen&c=apps&hl=en),
-[notifications] (https://play.google.com/store/search?q=Notifications&c=apps&hl=en), 
+[notifications](https://play.google.com/store/search?q=Notifications&c=apps&hl=en), 
 LED notification lights and so forth.
 Although there's probably some truth to this claim, it's also my belief that 
 too many 
